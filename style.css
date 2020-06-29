@@ -292,17 +292,18 @@ margin-bottom: 16px;
     margin-top: 50px;
 }
 .portfolio_boxs img{
-	display: inline-block;
+	
 	width: 160px;
 	height: 160px;
 	
   
 }
-.portfolio_boxs img:first-child{
+.pot-single-box-img:first-child {
 margin-left: 0px;
 }
 
-#pot-single-box-img{
+.pot-single-box-img{
+	display: inline-block;	
  width: 16%;
  margin-left: 35px;
  margin-top: 35px;
